@@ -1,0 +1,10 @@
+C:\Users\Christian\Documents\Visual Studio 2010\Projects\VideoMax\VideoMax\bin\Debug\VideoMax.exe
+C:\Users\Christian\Documents\Visual Studio 2010\Projects\VideoMax\VideoMax\bin\Debug\VideoMax.pdb
+C:\Users\Christian\Documents\Visual Studio 2010\Projects\VideoMax\VideoMax\obj\x86\Debug\VideoMax.Form1.resources
+C:\Users\Christian\Documents\Visual Studio 2010\Projects\VideoMax\VideoMax\obj\x86\Debug\VideoMax.Properties.Resources.resources
+C:\Users\Christian\Documents\Visual Studio 2010\Projects\VideoMax\VideoMax\obj\x86\Debug\VideoMax.csproj.GenerateResource.Cache
+C:\Users\Christian\Documents\Visual Studio 2010\Projects\VideoMax\VideoMax\obj\x86\Debug\VideoMax.exe
+C:\Users\Christian\Documents\Visual Studio 2010\Projects\VideoMax\VideoMax\obj\x86\Debug\VideoMax.pdb
+C:\Users\Christian\documents\visual studio 2010\Projects\VideoMax\VideoMax\obj\x86\Debug\VideoMax.csprojResolveAssemblyReference.cache
+C:\Users\Christian\documents\visual studio 2010\Projects\VideoMax\VideoMax\obj\x86\Debug\VideoMax.Usuario.resources
+C:\Users\Christian\documents\visual studio 2010\Projects\VideoMax\VideoMax\bin\Debug\VideoMax.exe.config
